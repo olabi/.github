@@ -6,6 +6,7 @@
 [![todays](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=todays&size=large)](https://myhits.vercel.app)
 
 <center>
+  
 <a href="https://rapids.ai/">
 <img  src="https://img.shields.io/badge/RAPIDS-512BD4" />
 </a>
@@ -27,12 +28,11 @@
 <a href="https://scikit-learn.org/stable/#">
 <img  src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=FFFFFF" />
 </a>
+
 </center>
 
-<hr/>
-This repository save book code for NVIDIA RAPIDS로 배우는 데이터 사이언스 가속화 기초
+---
 
-Learn more : 
 <a href="https://modulabs.notion.site/NVIDIA-Data-Engineering-with-RAPIDS-LAB-136c69bcb0f34c458e7553b945dacad7?pvs=4">
 <img  src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=FFFFFF" />
 </a>
