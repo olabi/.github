@@ -25,9 +25,10 @@
 <a href="https://pandas.pydata.org/">
 <img  src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FFFFFF" />
 </a> &nbsp
-<a href="https://scikit-learn.org/stable/#">
+<a href="https://scikit--learn.org/stable/#">
 <img  src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=FFFFFF" />
 </a>
+<br/>
 
 
 <a href="https://modulabs.notion.site/NVIDIA-Data-Engineering-with-RAPIDS-LAB-136c69bcb0f34c458e7553b945dacad7?pvs=4">
