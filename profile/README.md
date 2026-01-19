@@ -46,3 +46,12 @@
 <img  src="https://img.shields.io/badge/WikiDocs-1976D2?style=plastic" />
 </a>
 <br/><br/>
+
+
+
+<picture>
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=000000&multiline=true&width=510&height=512&lines=This+GitHub+group+contains+a+collection;of+code+from+the+NVIDIA+Technical+Lab%3A;Data+Science+with+RAPIDS+LAB%2C+conducted+;by+Modulabs.;+;RAPIDS+is+a+platform+that+enables+you+to+;run+CPU-based+PyData+ecosystems;such+as+Pandas%2C+Scikit-learn%2C+and+NetworkX;on+the+GPU.;+;By+sharing+methods+and+examples%2C+it+makes;it+easy+to+perform+GPU-based+data+science;even+without+extensive+prior+study.;+;We+hope+you+enjoy+learning+RAPIDS!" alt="Typing SVG" />
+</a>
+
+</picture>
