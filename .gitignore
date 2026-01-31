@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+data/bank/*
+data/toy
+Chapter07/pyspark
+Chapter07/Open_Book_LLM_Science_Exam20250213.ipynb

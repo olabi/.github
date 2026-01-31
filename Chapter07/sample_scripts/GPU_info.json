@@ -1,0 +1,4 @@
+{
+    "name": "gpu",
+    "addresses" : ["0", "1"]
+}
